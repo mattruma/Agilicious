@@ -7,7 +7,7 @@ Read all about it at https://mattruma.com/adventures-with-power-platform-agilici
 
 ## Releases
 
-### AgiliciousSolution_1_1_0_15
+### AgiliciousSolution_1_1_0_14
 
 - Removed dependency on Canvas App to call Agilicious Event List (Power Apps) flow, it wasn't returning the correct events, some were missing.
 
