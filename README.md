@@ -1,8 +1,6 @@
 # Agilicious
 Power Platform solution for team reporting in a Scrum like format.
 
-![Loading Screen](Figure1.png)
-
 Read all about it at https://mattruma.com/adventures-with-power-platform-agilicious.
 
 ![Home Screen](Figure2.png)
